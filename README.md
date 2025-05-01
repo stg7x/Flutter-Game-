@@ -1,16 +1,13 @@
-# Habit_Tracker
+Flutter Game
+A minimalist real-time action game built with Flutter. Control your character using the arrow keys, navigate a grid-based world, and explore a fast, responsive gameplay experience without turns.
 
-A new Flutter project.
+Features
+🎮 Real-time movement with keyboard arrow keys
 
-## Getting Started
+🔲 Grid-based map system (square tiles)
 
-This project is a starting point for a Flutter application.
+⚡ Responsive player control
 
-A few resources to get you started if this is your first Flutter project:
+📦 Lightweight and clean Flutter project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🧪 Ideal for experimenting with game mechanics in Flutter
